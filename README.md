@@ -1,5 +1,5 @@
 # Creá un scraper automático de Twitter en AWS en cinco sencillos pasos (Intro a Serverless Pt. 1)
-Repo que acompaña el artículo "Creá un scraper automático de Twitter en AWS en cinco sencillos pasos (Intro a Serverless Pt. 1)", disponible [en este link](https://deployr.medium.com/control-de-accesos-en-aws-c%C3%B3mo-trabajo-en-la-nube-de-forma-segura-326260e173f3).
+Repo que acompaña el artículo "Creá un scraper automático de Twitter en AWS en cinco sencillos pasos (Intro a Serverless Pt. 1)", disponible [en este link](https://deployr.medium.com/cre%C3%A1-un-scraper-autom%C3%A1tico-de-twitter-en-aws-en-cinco-sencillos-pasos-intro-a-serverless-pt-1-e9741d033be1).
 
 ### ¿Qué necesitamos?
 Lo que vamos a necesitar en esta etapa es:
